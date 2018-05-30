@@ -14,12 +14,12 @@ java学习篇
 <h3>5、CAS</h3>
 <a style="text-indent:2em;" href="https://blog.csdn.net/z742182637/article/details/50417550">《Compare And Swap》</a></br>
 <a style="text-indent:2em;" href="https://www.cnblogs.com/Leo_wl/p/6899716.html">《浅谈CAS(Compare and Swap) 原理》</a></br>
-<h3>5、CAS</h3>
+<h3>6、锁</h3>
 <a style="text-indent:2em;" href="https://blog.csdn.net/zqz_zqz/article/details/70233767">《java中的锁(偏向锁、轻量级锁、自旋锁、重量级锁)》</a></br>
 <a style="text-indent:2em;" href="http://www.importnew.com/20444.html">《Java对象锁和类锁全面解析（多线程synchronized关键字）》</a></br>
 <a style="text-indent:2em;" href="https://blog.csdn.net/lantian0802/article/details/8971552?utm_source=tuicool&utm_medium=referral">《Java中常用的锁分析总结》</a></br>
 <a style="text-indent:2em;" href="https://blog.csdn.net/bohu83/article/details/51098106">《condition使用及分析》</a></br>
 <a style="text-indent:2em;" href="https://www.cnblogs.com/uodut/p/6830939.html">《java并发之同步辅助类（Semphore、CountDownLatch、CyclicBarrier、Phaser）》</a></br>
-
-
+<h3>7、并发工具类</h3>
+<a style="text-indent:2em;" href="http://www.importnew.com/22007.html">《ConcurrentHashMap总结》</a></br>
 
