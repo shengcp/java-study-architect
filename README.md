@@ -32,5 +32,10 @@ java学习篇
 <a style="text-indent:2em;" href="https://blog.csdn.net/qq_38989725/article/details/73610180">《Java的Executor框架和线程池实现原理》</a></br>
 <a style="text-indent:2em;" href="https://www.jianshu.com/p/ade771d2c9c0">《深入理解java线程池-ThreadPoolExecutor》</a></br>
 <a style="text-indent:2em;" href="https://blog.csdn.net/ghsau/article/details/7451464">《Callable和Future》</a></br>
+<a style="text-indent:2em;" href="https://blog.csdn.net/guozebo/article/details/51090612">《Timer与ScheduledExecutorService的不同》</a></br>
+<a style="text-indent:2em;" href="http://www.cnblogs.com/dolphin0520/p/3920407.html">《深入剖析ThreadLocal》</a></br>
+<a style="text-indent:2em;" href="https://www.cnblogs.com/senlinyang/p/7885964.html">《Fork/Join框架详解》</a></br>
+
+
 
 
